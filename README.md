@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Cloud+%26+Distributed+Systems;Event-Driven+Architecture;AI-Ready+Solutions"/>
+  <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/main/assets/wave-top.svg"/>
 </p>
+
 
 <div align="center">
   <h1 style="font-size: 3em; font-weight: bold;">Victor B. F. Castro</h1>
@@ -49,6 +50,7 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência artificial aos
 |-------------|--------------------|----------------------|
 | Node.js (NestJS, Express, TS), Java (Spring Boot), Python (FastAPI), REST/GraphQL, CQRS, SAGA, EDA, Kafka, RabbitMQ | AWS (ECS, Lambda, API Gateway, DynamoDB, Aurora, SQS/SNS), Terraform, Docker, Kubernetes, CI/CD (GitHub Actions) | LLMs (LangChain, RAG), Redis (cache, locks), PostgreSQL/MongoDB, Observabilidade (Prometheus, Grafana, Loki, K6) |
 
+---
 
 ### 💬 Meus Contatos
 <p align="center">
