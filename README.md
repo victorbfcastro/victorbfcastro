@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:4b0082,100:000000&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Cloud+%26+Distributed+Systems;Event-Driven+Architecture;AI-Ready+Solutions"/>
 </p>
 
 <div align="center">
@@ -17,14 +17,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Backend Engineer Sênior** com **+7 anos de experiência** em projetos de alta criticidade — incluindo **bancos e grandes consultorias** — entregando soluções cloud-native com foco em **resiliência, escalabilidade e alto throughput**.  
+**Backend Engineer Sênior** com **+7 anos de experiência** em projetos de alta criticidade — incluindo **bancos e grandes consultorias** — entregando soluções cloud-native com foco em **resiliência, escalabilidade e alto throughput**.  
 Tenho sólida experiência em **arquitetura limpa/DDD**, **event-driven systems** e **AWS**.  
-Explorando cada vez mais **LLMs e RAG** para trazer inteligência aos sistemas corporativos.
-
-💡 **Impacto**:  
-- Escalabilidade para picos anuais de milhões de requisições  
-- Redução de custos em até **35%** com estratégias de cloud & autoscaling  
-- APIs com **baixa latência (p95 < 120ms)** em ambientes de alta concorrência  
+Explorando cada vez mais **LLMs e RAG** para trazer inteligência artificial aos sistemas corporativos.
 
 ---
 
@@ -44,7 +39,7 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência aos sistemas c
 
 - **🤖 RAG Mini (IA)**
   - API para ingestão e consulta de FAQs com embeddings e busca vetorial (pgvector).
-  - `NestJS` `LLMs` `Embeddings` `pgvector` `RAG`
+  - `Python` `FastAPI` `LangChain` `LLMs` `pgvector` `RAG`
 
 ---
 
@@ -54,27 +49,15 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência aos sistemas c
 |-------------|--------------------|----------------------|
 | Node.js (NestJS, Express, TS), Java (Spring Boot), Python (FastAPI), REST/GraphQL, CQRS, SAGA, EDA, Kafka, RabbitMQ | AWS (ECS, Lambda, API Gateway, DynamoDB, Aurora, SQS/SNS), Terraform, Docker, Kubernetes, CI/CD (GitHub Actions) | LLMs (LangChain, RAG), Redis (cache, locks), PostgreSQL/MongoDB, Observabilidade (Prometheus, Grafana, Loki, K6) |
 
----
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorbfcastro&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbfcastro&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorbfcastro&theme=dracula&hide_border=true" width="100%"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
-
-### 💬 Vamos Conversar?
+### 💬 Meus Contatos
 <p align="center">
-  <a href="https://victorcastro.dev" target="_blank"><img src="https://img.shields.io/badge/Portfólio-4b0082?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victorbfcastro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/55XXXXXXXXX?text=Olá%20Victor!%20Gostaria%20de%20conversar%20sobre%20um%20projeto." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/5548991201715?text=Olá%20Victor!%20Gostaria%20de%20conversar%20sobre%20um%20projeto." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:4b0082,100:0d1117&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Cloud+%26+Distributed+Systems;Event-Driven+Architecture;AI-Ready+Solutions"/>
 </p>
+
+
