@@ -60,6 +60,6 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência artificial aos
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/main/assets/wave-top.svg"/>
+  <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/main/assets/wave-footer.svg"/>
 </p>
 
