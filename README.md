@@ -59,6 +59,7 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência artificial aos
   <a href="https://wa.me/5548991201715?text=Olá%20Victor!%20Gostaria%20de%20conversar%20sobre%20um%20projeto." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <path fill="#0099ff" fill-opacity="1" d="M0,256L48,261.3C96,267,192,277,288,266.7C384,256,480,224,576,218.7C672,213,768,235,864,250.7C960,267,1056,277,1152,256C1248,235,1344,181,1392,154.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-</svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/main/assets/wave-top.svg"/>
+</p>
+
