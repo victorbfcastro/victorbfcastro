@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Cloud+%26+Distributed+Systems;Event-Driven+Architecture;AI-Ready+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Cloud+%26+Distributed+Systems;Event-Driven+Architecture;AI-Ready+Solutions"/>
 </p>
 
 
