@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/main/assets/wave-top.svg"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=victorbfcastro&theme=darkmode&data=followers,repositories,stars,commits"/>
 </p>
 
 
