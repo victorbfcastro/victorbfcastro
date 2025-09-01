@@ -7,7 +7,7 @@
 <div align="center">
   <h1 style="font-size: 3em; font-weight: bold;">Victor B. F. Castro</h1>
   <p style="font-size: 1.2em;">
-    <strong>Senior Backend Engineer</strong> • Cloud & Distributed Systems • Event-Driven Architecture • AI-Ready Solutions
+    <strong>Senior Software Engineer</strong> • Cloud & Distributed Systems • Event-Driven Architecture • AI-Ready Solutions
   </p>
  <p>
     Construindo sistemas resilientes e escaláveis com <b>Node.js</b>, <b>NestJS</b>, <b>Python</b>, <b>Kafka/RabbitMQ</b>, <b>MultiCloud (AWS, Azure, GCP)</b> e integrações modernas de IA.
@@ -58,7 +58,6 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência artificial aos
   <a href="https://www.linkedin.com/in/victorbfcastro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5548991201715?text=Olá%20Victor!%20Gostaria%20de%20conversar%20sobre%20um%20projeto." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/victorbfcastro/victorbfcastro/master/assets/wave-footer.svg"/>
 </p>
