@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+Distributed+Systems;AI+&+Web3+Enthusiast;Cloud+Architect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+Distributed+Systems;AI+%26+Web3+Enthusiast;Cloud+Architect"/>
 </p>
-
-
 
 <div align="center">
   <h1 style="font-size: 3em; font-weight: bold;">Victor B. F. Castro</h1>
   <p style="font-size: 1.2em;">
-    <strong>Full Stack Developer</strong> • Cloud & Distributed Systems • AI & Web3 Enthusiast
+    <strong>Full Stack Developer</strong> • <strong>Cloud & Distributed Systems</strong> • <strong>AI & Web3 Enthusiast</strong>
   </p>
  <p>
     Construindo sistemas resilientes e escaláveis com <b>Node.js</b>, <b>NestJS</b>, <b>Next.js</b>b> <b>Python</b>, <b>Kafka/RabbitMQ</b>, <b>MultiCloud (AWS, Azure, GCP)</b> e integrações modernas de IA.
