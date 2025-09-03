@@ -47,7 +47,7 @@ Explorando cada vez mais **LLMs e RAG** para trazer inteligência artificial aos
 
 | **Backend** | **Cloud & DevOps** | **Data & AI (Plus)** |
 |-------------|--------------------|----------------------|
-| Node.js (NestJS, Express, TS), Java (Spring Boot), Python (FastAPI), REST/GraphQL, CQRS, SAGA, EDA, Kafka, RabbitMQ | AWS (ECS, Lambda, API Gateway, DynamoDB, Aurora, SQS/SNS), Terraform, Docker, Kubernetes, CI/CD (GitHub Actions) | LLMs (LangChain, RAG), Redis (cache, locks), PostgreSQL/MongoDB, Observabilidade (Prometheus, Grafana, Loki, K6) |
+| Node.js (NestJS, Express, TS), NextJS, Java (Spring Boot), Python (FastAPI), REST/GraphQL, CQRS, SAGA, EDA, Kafka, RabbitMQ | AWS (ECS, Lambda, API Gateway, DynamoDB, Aurora, SQS/SNS), Terraform, Docker, Kubernetes, CI/CD (GitHub Actions) | LLMs (LangChain, RAG), Redis (cache, locks), PostgreSQL/MongoDB, Observabilidade (Prometheus, Grafana, Loki, K6) |
 
 ---
 
