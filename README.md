@@ -8,7 +8,7 @@
     <strong>Full Stack Developer</strong> • <strong>Cloud & Distributed Systems</strong> • <strong>AI & Web3 Enthusiast</strong>
   </p>
  <p>
-    Construindo sistemas resilientes e escaláveis com <b>Node.js</b>, <b>NestJS</b>, <b>Next.js</b>b> <b>Python</b>, <b>Kafka/RabbitMQ</b>, <b>MultiCloud (AWS, Azure, GCP)</b> e integrações modernas de IA.
+    Construindo sistemas resilientes e escaláveis com <b>Node.js</b>, <b>NestJS</b>, <b>Next.js</b>, <b>Python</b>, <b>Kafka/RabbitMQ</b>, <b>MultiCloud (AWS, Azure, GCP)</b> e integrações modernas de IA.
   </p>
   </p>
 </div>
